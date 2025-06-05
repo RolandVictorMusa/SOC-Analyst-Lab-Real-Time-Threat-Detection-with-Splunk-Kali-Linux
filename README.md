@@ -151,10 +151,6 @@ index=web_logs sourcetype=access_combined | stats count by uri_path, status | wh
 
 ---
 
-## 🏷 Badges
-
----
-
 
 
 
